@@ -9,14 +9,14 @@ class Pressmark < Formula
   on_macos do
     on_arm do
       url "https://github.com/mooshee/pressmark/releases/download/v1.2.1/pressmark-v1.2.1-aarch64-apple-darwin.tar.gz"
-      sha256 "43a7cd76509c0a57f7f84489df40d111ac1bce9c55081e30cd92858e893bcc17"
+      sha256 "c10ed63097ed93817c1d332a79e09d22dd4f9643250c95c48e8ab07739ac9f56"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/mooshee/pressmark/releases/download/v1.2.1/pressmark-v1.2.1-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "86cf0eb10c398f1b266c0384be3b715bf866909afc7ac966fa792442e3244754"
+      sha256 "7315e0842754cf20da6ef267c0951eb08c887f2b001da091ef6dbfad9f985e27"
     end
   end
 
